@@ -13,3 +13,4 @@ twine==3.4.1
 watchdog==2.1.2
 wheel
 yamllint==1.26.1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
